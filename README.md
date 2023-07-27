@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/414962002/dance-banz-bot/blob/main/img/image%20(1).png">  
+  <img src="https://github.com/414962002/dance-banz-bot/blob/main/img/image%20(1).jpeg">  
 </p>  
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet venenatis urna cursus eget nunc scelerisque. Proin libero nunc consequat interdum varius sit amet mattis. Non curabitur gravida arcu ac tortor dignissim convallis aenean et. Sed lectus vestibulum mattis ullamcorper velit sed. Elit scelerisque mauris pellentesque pulvinar.  
